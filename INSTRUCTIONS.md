@@ -45,7 +45,7 @@ Your story will have multiple slides, each with a title, some additional text, m
 
 ### Step 3: Design and build your story map
 
-* If you are using one of the templates in this repository, copy the contents to the root folder in this repository (e.g., copy everything from [templates/scrollytelly/](templates/scrollytelly/)). You can then modify the HTML, CSS, JavaScript, and data in the root folder to suit your needs. You can also start from a different template if you prefer. For example, Juan Francisco Saldarriaga (PointsUnknown)'s [template](https://github.com/PointsUnknown/PointsUnknown.github.io) has been popular in the past.
+* If you are using one of the templates in this repository, copy the contents to the root folder in this repository (e.g., copy everything from [templates/scrollytelly/](templates/scrollytelly/)). You can then modify the HTML, CSS, JavaScript, and data in the root folder to suit your needs. You can also start from a different template if you prefer. For example, Juan Francisco Saldarriaga (PointsUnknown)'s [tutorial](https://pointsunknown.nyc/web%20mapping/mapbox/2021/07/20/11A_MapboxStorytelling.html) has been popular in the past.
 
 * For the templates in this folder, your slide content will go straight into your HTML, and your map features will go in to separate GeoJSON files in the [data/](data/) folder. Each slide will have a corresponding GeoJSON file in the [data/](data/) folder. For example, if you have a slide in your HTML with an `id` of `housing-1`, then you should have a corresponding `housing-1.json` file in the [data/](data/) folder (the choice of `id` is up to you, but it should be descriptive). You can use [geojson.io](https://geojson.io) to create and edit GeoJSON files.
 
