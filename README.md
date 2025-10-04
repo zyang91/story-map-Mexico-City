@@ -52,7 +52,7 @@ The story map covers multiple dimensions of Mexico City's transit system:
 - **Mexico City Government Open Data Portal**: https://mexicocity.cdmx.gob.mx/
 
 ### Map Imagery & Attribution
-- **Base Map**: CartoDB Dark Matter tiles via https://carto.com/
+- **MapBox Layer**: https://www.mapbox.com/maps/light
 - **Base Map Data**: © OpenStreetMap contributors - https://www.openstreetmap.org/copyright
 - **Station Icons**: Wikipedia - https://en.wikipedia.org/wiki/Mexico_City_Metro
 
