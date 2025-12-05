@@ -217,7 +217,7 @@ class SlideDeck {
   }
 
   /**
-   * Decrement the currentSlideIndes and show the corresponding slide. If the
+   * Decrement the currentSlideIndex and show the corresponding slide. If the
    * current slide is the first slide, then the previous is the final.
    */
   goPrevSlide() {
