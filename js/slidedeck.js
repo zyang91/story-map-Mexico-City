@@ -147,7 +147,7 @@ class SlideDeck {
   /**
    * ### syncMapToSlide
    *
-   * Go to the slide that mathces the specified ID.
+   * Go to the slide that matches the specified ID.
    *
    * @param {HTMLElement} slide The slide's HTML element
    */
